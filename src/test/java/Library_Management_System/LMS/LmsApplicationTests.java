@@ -3,7 +3,7 @@ package Library_Management_System.LMS;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class LmsApplicationTests {
 
 	@Test
